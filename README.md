@@ -23,7 +23,7 @@
 
 1.1 Поднял локальный инстанс базы данныйх MySQL версии 8.0.28 на Ubuntu 22.04:
 
-![](https://github.com/radiomost/ddl-dml/blob/main/img/img21.png)
+![](img/img21.png)
 ![](https://github.com/radiomost/ddl-dml/blob/main/img/img22.png)
 
 ## Задание 2
